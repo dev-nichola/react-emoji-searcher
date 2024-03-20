@@ -1,0 +1,8 @@
+.emojisGrid 
+{
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+
+      margin-top: 32px;
+}
